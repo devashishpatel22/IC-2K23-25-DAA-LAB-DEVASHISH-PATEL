@@ -1,0 +1,54 @@
+# ===============================
+# Executables and Binaries
+# ===============================
+*.exe
+*.out
+*.app
+*.bin
+
+# ===============================
+# Compiled Object Files and Archives
+# ===============================
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+*.dll
+
+# ===============================
+# Debugging and Profiling Data
+# ===============================
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.ilk
+
+# ===============================
+# Build and Output Folders
+# ===============================
+build/
+bin/
+out/
+obj/
+dist/
+cmake-build-*/
+
+# ===============================
+# VS Code and Editor Files
+# ===============================
+.vscode/*
+# Keep workspace recommendations/settings if you intentionally want to share them:
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.swp
+*~
+
+# ===============================
+# OS Generated Files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
